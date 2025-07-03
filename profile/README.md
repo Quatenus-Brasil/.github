@@ -18,10 +18,10 @@ O processo de sugestão e controle de melhorias é feito **internamente pela equ
 Todos os repositórios públicos desta organização estão disponíveis para **uso livre** por qualquer pessoa.  
 Você pode **baixar, modificar e utilizar** o conteúdo da forma que preferir, inclusive para projetos pessoais ou comerciais.
 
-> No entanto, a Quatenus Brasil **não oferece suporte, manutenção ou garantias** sobre esses repositórios públicos.
+No entanto, a Quatenus Brasil **não oferece suporte, manutenção ou garantias** sobre esses repositórios públicos.
 
 Eles são disponibilizados "como estão", com o objetivo de contribuir com a comunidade e compartilhar soluções úteis desenvolvidas internamente.
 
 ---
 
-© 2025 Quatenus – Sistemas Inteligentes de Localização Global. Todos os direitos reservados.
+© 2025 Quatenus – Sistemas Inteligentes de Localização Global.
