@@ -4,14 +4,7 @@ Bem-vindo ao espaço oficial da **Quatenus Brasil** 🇧🇷 no GitHub. Este esp
 
 Todos os sistemas aqui mantidos têm como objetivo **facilitar e simplificar o trabalho dos nossos colaboradores**, promovendo eficiência, confiabilidade e inovação.
 
-> ⚙️ Atualmente sob responsabilidade de [@kerstenbr](https://github.com/kerstenbr)
-
-## 🤝 Contribuindo
-
-O processo de sugestão e controle de melhorias é feito **internamente pela equipe da Quatenus Brasil**. No entanto, sinta-se à vontade para:
-
-- **Abrir uma issue** com sugestões, correções ou melhorias.
-- **Criar um pull request** com contribuições diretas ao código.
+⚙️ Atualmente sob responsabilidade de [@kerstenbr](https://github.com/kerstenbr)
 
 ## 📄 Uso dos Repositórios Públicos
 
