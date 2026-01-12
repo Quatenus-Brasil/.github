@@ -17,4 +17,4 @@ Eles são disponibilizados "como estão", com o objetivo de contribuir com a com
 
 ---
 
-© 2025 Quatenus – Sistemas Inteligentes de Localização Global.
+© 2026 Quatenus – Sistemas Inteligentes de Localização Global.
